@@ -1,0 +1,21 @@
+[
+  {
+    "firstName":"Lena Graham",
+    "lastName":"Bret",
+    "age":25,
+    "address"{"street":"123 Main stn"},
+	      "city":"Bellevue",
+	      "zip":"98007"},
+    "cars":["Toyota Corolla","Honda Civic"]
+  },
+
+  {
+    "firstName":"Raja",
+    "lastName":"Dubey",
+    "age":28,
+    "address"{"street":"12 Thane stn"},
+	      "city":"Mumbai",
+	      "zip":"98008"},
+    "cars":["Toyota Corolla","Honda"]
+  }
+]
